@@ -1,2 +1,2 @@
 # JavaTutorial 
-** Learn java basic
+Learn java basic
